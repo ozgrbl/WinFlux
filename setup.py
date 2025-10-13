@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="winflux",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Chethan Yadav",
+    author_email="chethanyadav456@gmail.com",
     description="A powerful Windows system optimizer and cleanup tool",
     long_description=long_description,
     long_description_content_type="text/markdown",
